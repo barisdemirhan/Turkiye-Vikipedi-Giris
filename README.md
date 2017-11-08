@@ -1,0 +1,1 @@
+Türkiye için erişime açık olan tr.vikipedi.pw'ye, wikipedia.org sitesinden otomatik olarak geçmek için basit bir eklenti.
