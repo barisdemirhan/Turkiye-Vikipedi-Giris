@@ -12,6 +12,6 @@ chrome.webRequest.onBeforeRequest.addListener(
       },["blocking"]);
 chrome.browserAction.onClicked.addListener(function(tab) {
     chrome.tabs.update({
-        url: "http://tr.vikipedi.pw"
+        url: "https://kslnk.xyz/trvikipedipw"
     });
 });
