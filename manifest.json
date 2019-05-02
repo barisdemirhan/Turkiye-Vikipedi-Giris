@@ -1,10 +1,10 @@
 {
     "name": "Türkiye Vikipedi Giriş",
     "short_name": "vikipedi.pw",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "manifest_version": 2,
     "author": "Barış Demirhan",
-    "description": "Türkiye için erişime açık olan tr.wikipedi0.org adresine, wikipedia.org sitesinden otomatik olarak geçmek için basit bir eklenti.",
+    "description": "Türkiye için erişime açık olan wikipedi0.org adresine, wikipedia.org sitesinden otomatik olarak geçmek için basit bir eklenti.",
     "homepage_url": "http://barisdemirhan.com",
     "browser_action": {
         "default_icon": "icons/icon.png"

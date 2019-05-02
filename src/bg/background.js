@@ -2,7 +2,7 @@ chrome.webRequest.onBeforeRequest.addListener(
     function(d) {
         var current_url = d.url;
         var host = current_url.match(/(https?:\/\/|www\.?)(www\.)?([^\/\s]+)/ig)[0];
-        host = host.replace("wikipedia.org","vikipedi.pw");
+        host = host.replace("wikipedia.org","wikipedi0.org");
         var el = document.createElement('a');
         el.href = current_url;
         var path = el.pathname;
@@ -12,6 +12,6 @@ chrome.webRequest.onBeforeRequest.addListener(
       },["blocking"]);
 chrome.browserAction.onClicked.addListener(function(tab) {
     chrome.tabs.update({
-        url: "https://kslnk.xyz/trvikipedipw"
+        url: "https://kslnk.xyz/wikipedi0org"
     });
 });
